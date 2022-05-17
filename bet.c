@@ -1,7 +1,7 @@
 #include <assert.h>
 #include <stdlib.h>
-#include "bet.h"
 #include <stdio.h>
+#include "bet.h"
 
 // === BET NODES =============================================================
 
